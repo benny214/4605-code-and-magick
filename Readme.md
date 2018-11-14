@@ -1,7 +1,7 @@
 # Учебный проект «Код и Магия» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виктор Туманов](https://up.htmlacademy.ru/javascript/16/user/4605).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Катревич](https://htmlacademy.ru/profile/id189351).
 
 ---
 
